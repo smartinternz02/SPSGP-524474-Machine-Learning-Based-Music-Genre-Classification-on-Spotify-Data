@@ -12,7 +12,7 @@ Campus: VIT Vellore
 Phone: +91 7380605543
 
 Please note that I have used github LFS in order to upload the model pkl file, and it may cause problems if you directly fork the repository. 
-In that case, it is also on drive link: https://drive.google.com/file/d/1Q2VjIPYjiaBZrpOLiDnCjIQy2sDr1GUc/view?usp=sharing
+In that case, it is also on drive link: https://drive.google.com/drive/folders/1fyEb5P9gQsygmJOfhUHyFEOkLHgiIb7j
 
 Instructions (if getting from drive)
 
